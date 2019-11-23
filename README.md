@@ -1,6 +1,8 @@
 # MoodBlaster
 Submission for the 2019 BostonHacks for the Bit Bots Team
 
+Devpost: https://devpost.com/software/moodblaster-3zhqp6
+
 # Setup
 
 ## Setup Environment
